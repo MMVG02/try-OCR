@@ -1,0 +1,5 @@
+opencv-python
+numpy
+Pillow
+matplotlib # Still needed for the backend used by display_image_in_gui if FigureCanvasTkAgg is used, also good practice
+# Note: No need to list tkinter as it's built-in.
